@@ -1,0 +1,22 @@
+ID: 6
+2021/12/14 23:38:50
+Execution Stack:
+print(2 + 3 < 1)
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 6
+2021/12/14 23:38:50
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+
+Output:
+false
+--------------------------------------------------

@@ -1,0 +1,412 @@
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(string varf; (varf = test_empty.in; (openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))))))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+string varf
+(varf = test_empty.in; (openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+string varf
+(varf = test_empty.in; (openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(varf = test_empty.in; (openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))))
+Heap:
+
+Symbol Table:
+varf --> 
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(varf = test_empty.in; (openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))))
+Heap:
+
+Symbol Table:
+varf --> 
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+varf = test_empty.in
+(openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))))
+Heap:
+
+Symbol Table:
+varf --> 
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+varf = test_empty.in
+(openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))))
+Heap:
+
+Symbol Table:
+varf --> 
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(openFile varf; (int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+openFile varf
+(int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+openFile varf
+(int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(int varc; (readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+int varc
+(readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+int varc
+(readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(readFile varf into variable varc; (print(varc); (readFile varf into variable varc; (print(varc); closeFile varf))))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+readFile varf into variable varc
+(print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+readFile varf into variable varc
+(print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(print(varc); (readFile varf into variable varc; (print(varc); closeFile varf)))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+print(varc)
+(readFile varf into variable varc; (print(varc); closeFile varf))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+print(varc)
+(readFile varf into variable varc; (print(varc); closeFile varf))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(readFile varf into variable varc; (print(varc); closeFile varf))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(readFile varf into variable varc; (print(varc); closeFile varf))
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+readFile varf into variable varc
+(print(varc); closeFile varf)
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+readFile varf into variable varc
+(print(varc); closeFile varf)
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(print(varc); closeFile varf)
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+(print(varc); closeFile varf)
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+print(varc)
+closeFile varf
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+print(varc)
+closeFile varf
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+closeFile varf
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+closeFile varf
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+0
+--------------------------------------------------
+ID: 5
+2021/12/15 14:08:39
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+varf --> test_empty.in
+varc --> 0
+Output:
+0
+0
+--------------------------------------------------

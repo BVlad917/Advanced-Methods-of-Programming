@@ -1,0 +1,114 @@
+ID: 1
+2021/12/14 23:38:34
+Execution Stack:
+(int v; (v = 2; print(v)))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+int v
+(v = 2; print(v))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+int v
+(v = 2; print(v))
+Heap:
+
+Symbol Table:
+
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+(v = 2; print(v))
+Heap:
+
+Symbol Table:
+v --> 0
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+(v = 2; print(v))
+Heap:
+
+Symbol Table:
+v --> 0
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+v = 2
+print(v)
+Heap:
+
+Symbol Table:
+v --> 0
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+v = 2
+print(v)
+Heap:
+
+Symbol Table:
+v --> 0
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+print(v)
+Heap:
+
+Symbol Table:
+v --> 2
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+print(v)
+Heap:
+
+Symbol Table:
+v --> 2
+Output:
+
+--------------------------------------------------
+ID: 1
+2021/12/14 23:38:35
+Execution Stack:
+
+Heap:
+
+Symbol Table:
+v --> 2
+Output:
+2
+--------------------------------------------------
